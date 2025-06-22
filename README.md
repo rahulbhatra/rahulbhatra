@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rahulbhatra
 - 👀 I’m interested in software development and data science
-- 🌱 I’m currently a masters student in Illinois Institute of Technology, Chicago
+- 🌱 I’m currently working at Cohere Health as a Software Engineer 2
 - 💞️ I’m looking to collaborate on Challenging positions and Roles
 - 📫 You can reach me via Email rsbhatra98@gmail.com Phone (312)-539-3570
 
